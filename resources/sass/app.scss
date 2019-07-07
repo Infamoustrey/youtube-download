@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans&display=swap");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "../../node_modules/bulma/bulma.sass";
+
+body,
+html {
+    font-family: "Noto Sans", sans-serif;
+}
